@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="96" height="96" viewBox="0 0 96.00 96.00" enable-background="new 0 0 96.00 96.00" xml:space="preserve">
+	<rect x="-7.94729e-008" y="7.62939e-006" fill="#E7540D" fill-opacity="1" stroke-width="0.375" stroke-linejoin="round" width="96" height="96"/>
+	<path fill="#FFE5D8" fill-opacity="1" stroke-width="0.375" stroke-linejoin="round" d="M 80.8135,45.0266C 70.0579,49.3916 44.7004,41.2215 42.5269,36.3119C 40.4257,31.5654 60.2434,38.3171 67.2552,30.3487C 74.2671,22.3802 64.5013,5.94682 68.893,6.06493C 74.7539,6.22256 88.5833,41.8734 80.8135,45.0266 Z "/>
+	<path fill="#FFE5D8" fill-opacity="1" stroke-width="0.375" stroke-linejoin="round" d="M 16.5273,49.9474C 27.4114,45.9134 52.5072,54.855 54.5296,59.8288C 56.4847,64.6373 36.8826,57.2828 29.6304,65.0331C 22.3782,72.7834 31.6369,89.5078 27.2509,89.2554C 21.3976,88.9186 8.66473,52.8616 16.5273,49.9474 Z "/>
+	<path fill="#FFE5D8" fill-opacity="1" stroke-width="0.375" stroke-linejoin="round" d="M 36.9384,12.3847C 56.056,7.95025 71.295,22.3382 63.1875,28.6972C 55.5009,34.7261 51.2476,21.3053 39.9051,20.9183C 31.4222,20.6288 19.3756,28.5555 15.0663,39.4688C 13.4375,43.5937 16.1919,17.1969 36.9384,12.3847 Z "/>
+	<path fill="#FFE5D8" fill-opacity="1" stroke-width="0.375" stroke-linejoin="round" d="M 60.0816,83.059C 40.894,87.1801 25.8924,72.5448 34.1029,66.3193C 41.8871,60.4169 45.9202,73.9055 57.2549,74.4781C 65.732,74.9062 77.9066,67.1777 82.3938,56.3364C 84.0899,52.2386 80.9041,78.5868 60.0816,83.059 Z "/>
+</svg>
